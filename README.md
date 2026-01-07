@@ -1,5 +1,4 @@
-# azure-networking-lab-multitier
-AZ-700 Multi-tier Azure VNet lab (NSGs, NICs, DNS, connectivity validation)
+
 # Azure Networking Lab — Multi-Tier VNet Architecture (AZ-700)
 
 ## Overview
