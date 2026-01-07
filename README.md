@@ -27,7 +27,7 @@ This lab documents a **Microsoft-style Azure network infrastructure** using a **
 
 ---
 
-# Screenshot Walkthrough (Approved Set Only)
+# Screenshot Walkthrough 
 
 ## 01 — Azure Portal Home
 **What this proves:** Correct portal access, tenant/subscription context, and recent infrastructure visibility.
