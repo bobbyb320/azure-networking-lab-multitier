@@ -102,7 +102,7 @@ This lab documents a **Microsoft-style Azure network infrastructure** using a **
 
 ---
 
-## Azure CLI Validation (Optional but Recommended)
+## Azure CLI Validation
 ```bash
 # List VNets
 az network vnet list -g QueensTechRG -o table
